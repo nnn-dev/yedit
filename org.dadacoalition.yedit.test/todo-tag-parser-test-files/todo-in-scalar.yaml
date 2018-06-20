@@ -1,8 +1,0 @@
-test: here is a TODO bla bla
-another: "TODO also found here"
-TODO: as a key
-deeper:
-  - nesting:
-      level:
-        - level2
-        - 'TODO bla bla' # also comment on line
