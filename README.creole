@@ -9,7 +9,7 @@ Use the Eclipse Marketplace client.
 
 or
 
-Use the Eclipse update site found here: http://dadacoalition.org/yedit
+Use the Eclipse update site found here: https://nnn-dev.github.io/yedit/site/
 
 or
 
